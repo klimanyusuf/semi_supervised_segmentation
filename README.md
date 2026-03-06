@@ -53,7 +53,7 @@ This repository contains a **complete implementation** of semi-supervised learni
 ## Installation
 
 `ash
-git clone https://github.com/yourusername/semi_supervised_segmentation.git
+git clone https://github.com/klimanyusuf/semi_supervised_segmentation.git
 cd semi_supervised_segmentation
 pip install -r requirements.txt
 python run_assessment.py
@@ -91,3 +91,4 @@ For questions, please send a mail to:klimanyusuf@yahoo.com
   <br>
   <sub>© 2026</sub>
 </div>
+
